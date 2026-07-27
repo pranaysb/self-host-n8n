@@ -6,4 +6,8 @@ render also failed
 should check with hugging face + supabase
 hugging face not for n8n self hosting it also failef
 
+<<<<<<< HEAD
 
+=======
+What to do now? 
+>>>>>>> cfffc8e (ok)
