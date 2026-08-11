@@ -5,8 +5,5 @@ ok all paid sources
 render also failed
 should check with hugging face + supabase
 hugging face not for n8n self hosting it also failef
-
-<<<<<<< HEAD
-
-=======
+Ok all it takes is just once
 
