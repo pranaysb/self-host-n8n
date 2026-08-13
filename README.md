@@ -7,4 +7,5 @@ should check with hugging face + supabase
 hugging face not for n8n self hosting it also failef
 Ok all it takes is just once
 Try render once again
+But now many free limits finished look for a long term solution
 
