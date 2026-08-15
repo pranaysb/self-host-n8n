@@ -5,4 +5,4 @@ GENERIC_TIMEZONE=America/New_York
 
 # Generate a random string for your encryption key to secure credentials
 N8N_ENCRYPTION_KEY=SECURE STRING
-
+]]
